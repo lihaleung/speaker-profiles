@@ -35,17 +35,17 @@ const speakersData = [
   },
   {
     name: "Ulysse Richard",
-    title: "Military AI Governance Consultant",
+    title: "Consultant, Military AI",
     company: "UN Office for Disarmament Affairs",
-    bio: "Ulysse Richard works within the UN Office for Disarmament Affairs (UNODA), focusing on the governance of AI in the military domain. He is the host of the PodMAPS podcast series, part of UNODA's Military AI, Peace & Security (MAPS) Dialogues. He co-authored UNODA Occasional Paper No. 42 on the governance of AI in the military domain and serves as a key point of contact for UNODA's ongoing work on military AI, peace, and international security. He studied at Sciences Po Paris.",
+    bio: "Ulysse Richard is a policy practitioner and researcher working at the intersection of frontier AI and international security governance. He leads high-level dialogues on military AI at the UN Office for Disarmament Affairs, supports P5 expert dialogues on AI-nuclear risk as a Policy Research Fellow at INHR, and is a Research Associate at Arcadia Impact. His earlier work spans technology policy, cyber threat intelligence, and nuclear cybersecurity. He holds a dual MA in International Security from Sciences Po and Peking University.",
     image: "/speakers/ulysse-richard.png",
   },
   {
-    name: "Ashyana-Jasmina Kachra",
-    title: "AI Ethics & Safety Manager",
-    company: "Google DeepMind",
-    bio: "Ashyana-Jasmina Kachra is currently AI Ethics and Safety Manager at Google DeepMind, having previously held policy roles at OpenAI, Holistic AI, and AI Safety Fundamentals. She holds an MSc in International Social and Public Policy from LSE. Her prior work includes AI regulatory research at the OECD and consulting at Boston Consulting Group. She has published widely on topics including the EU AI Act, AI risk management frameworks, and global AI regulation.",
-    image: "/speakers/ashyana-kachra.png",
+    name: "Gaia Marcus",
+    title: "Director",
+    company: "Ada Lovelace Institute",
+    bio: "Gaia Marcus is the Director of the Ada Lovelace Institute, an independent research institute dedicated to ensuring data and AI work for people and society, following a distinguished career across government and the non-profit sector. In Whitehall, she held senior roles at the Department for Levelling Up, Housing and Communities, the Office for National Statistics, and the Department for Digital, Culture, Media and Sport, where she served as Head of National Data Strategy. Earlier in her career she specialised in data strategy and participatory research at organisations including Parkinson's UK, Centrepoint, and the Royal Society of Arts. She holds an MA in Understanding and Securing Human Rights from the Institute of Commonwealth Studies and a BA in History from University College London.",
+    image: "/speakers/gaia-marcus.png",
   },
   // Other speakers
   {
